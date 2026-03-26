@@ -1,0 +1,14 @@
+{
+   "Box Braids": {
+      "base_price": 120
+   },
+   "Sew-In": {
+      "base_price": 100
+   },
+   "Silk Press": {
+      "base_price": 70
+   },
+   "Cornrows": {
+      "base_price": 60
+   }
+}
