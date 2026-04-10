@@ -1,14 +1,19 @@
 {
-   "Box Braids": {
-      "base_price": 120
-   },
-   "Sew-In": {
-      "base_price": 100
-   },
-   "Silk Press": {
-      "base_price": 70
-   },
-   "Cornrows": {
-      "base_price": 60
-   }
+  "hairstyles": {
+    "Box Braids": 120,
+    "Sew-In": 100,
+    "Silk Press": 70,
+    "Cornrows": 60
+  },
+  "lengths": {
+    "Short": 0,
+    "Medium": 30,
+    "Long": 50
+  },
+  "addons": {
+    "Wash": 25,
+    "Hair Included": 30,
+    "Color Dye": 25,
+    "Design": 15
+  }
 }
