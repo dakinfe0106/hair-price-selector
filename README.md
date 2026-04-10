@@ -10,7 +10,7 @@ This project demonstrates the Python **`tkinter`** library, including **`tkinter
 
 The Hair Price Selector is a Python application that calculates the total cost of hairstyling services for a salon-style business. It allows the user to choose a hairstyle, add optional services, apply a discount when eligible, and view a detailed receipt.
 
-The program is designed to simulate a useful real-world business tool rather than just showing basic GUI widgets. It uses `tkinter` to make the application visual and interactive instead of relying on console input. The code includes GUI widgets, input validation, event-driven behavior, calculations, file handling, and receipt generation. :contentReference[oaicite:1]{index=1}
+The program is designed to simulate a useful real-world business tool rather than just showing basic GUI widgets. It uses `tkinter` to make the application visual and interactive instead of relying on console input. The code includes GUI widgets, input validation, event-driven behavior, calculations, file handling, and receipt generation.
 
 ---
 
@@ -52,7 +52,7 @@ This could be useful for hairstylists or small salon businesses that want a simp
 
 ## How to Run
 
-1. Make sure Python 3 is installed on your computer.
+1. Make sure Python is installed on your computer.
 2. Download or clone this repository.
 3. Make sure `main.py` and `prices.json` are in the same folder.
 4. Run the following command in that folder:
